@@ -440,7 +440,7 @@ header .navbar {
   text-transform: capitalize;
   letter-spacing: 0.5px;
   font-weight: 900;
-  color: #20232e;
+  color: #ffffff;
   margin: 10px 0px 12px 0px;
 }
 
@@ -476,7 +476,7 @@ header .navbar {
   font-size: 14px;
   /*color: #7c7b7b;*/
   /*color: 434040;*/
-  color: #434040;
+  color: #e8e9eb;
   font-weight: 400;
   transition: all 0.3s;
 }
@@ -701,7 +701,7 @@ ul.page-numbers li a:hover {
   text-transform: uppercase;
   font-weight: 900;
   letter-spacing: 0.5px;
-  color: #20232e;
+  color: #4fd1e8f8;
   border-bottom: 1px solid #eee;
   padding-bottom: 15px;
   margin-bottom: 25px;
@@ -738,7 +738,7 @@ ul.page-numbers li a:hover {
 .sidebar .recent-posts ul li h5 {
   font-size: 19px;
   font-weight: 900;
-  color: #20232e;
+  color: #ffffff;
   line-height: 30px;
   transition: all 0.3s;
 }
@@ -765,7 +765,7 @@ ul.page-numbers li a:hover {
 .sidebar .categories ul li a {
   font-size: 15px;
   font-weight: 700;
-  color: #20232e;
+  color: #ffffff;
   transition: all 0.3s;
 }
 
